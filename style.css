@@ -1,0 +1,13 @@
+.parallelogram {
+  fill: indigo;
+  stroke: violet;
+  stroke-width: 5px;
+  transition: 0.5s;
+
+}
+
+.parallelogram:hover {
+  fill: violet;
+  stroke: indigo;
+  stroke-width: 15px;
+}
